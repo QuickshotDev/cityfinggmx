@@ -2,11 +2,14 @@
 <extension>
   <name>EZMultiplayer Custom 1.2</name>
   <version>1.2 Custom</version>
-  <author></author>
+  <packageID></packageID>
+  <ProductID></ProductID>
   <date>9/10/2013</date>
   <license>Free to use, also for commercial games.</license>
   <description></description>
   <helpfile></helpfile>
+  <androidProps>-1</androidProps>
+  <iosProps>-1</iosProps>
   <installdir></installdir>
   <classname></classname>
   <androidclassname></androidclassname>
@@ -109,10 +112,12 @@
         <constant>
           <name>NET_INT</name>
           <value>1</value>
+          <hidden>0</hidden>
         </constant>
         <constant>
           <name>NET_STRING</name>
           <value>2</value>
+          <hidden>0</hidden>
         </constant>
       </constants>
     </file>

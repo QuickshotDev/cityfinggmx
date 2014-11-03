@@ -25,9 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>//Test
-
-//create global object
+            <string>//create global object
 instance_create(0,0,obj_global)
 
 application_surface_enable(0)
