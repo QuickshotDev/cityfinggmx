@@ -46,6 +46,7 @@
     <script>scripts\road_get_nearest_roadnum.gml</script>
     <script>scripts\road_get_nearest_pointid.gml</script>
     <script>scripts\resedential.gml</script>
+    <script>scripts\script5.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\font0</font>
