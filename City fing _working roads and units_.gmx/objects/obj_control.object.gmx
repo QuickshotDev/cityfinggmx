@@ -34,8 +34,6 @@ application_surface_enable(0)
 
 obj_global.roadcount = 0
 obj_global.rivercount = 0
-
-contonuim
 </string>
           </argument>
         </arguments>
